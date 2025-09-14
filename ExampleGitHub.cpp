@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 	cout << "It Step is the best academy!\n";
+	cout << "I love C++ programming!\n";
 }
 //Відео без звуку! якщо хочете купити мені мікрофон то ось реквізити 4441 1111 5673 5163 (Monobank) :)))
 //Сподіваюсь, що ви знайомі із GitHub та Git взагалом
